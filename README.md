@@ -170,22 +170,3 @@ CityPicker.getInstance()
 
 OK，enjoy it~
 
-# Changelog 
-
-#### v2.0.2
-
--   修复定位城市偶尔不刷新的bug
-
-#### v2.0.1
-
--   新增定位接口
--   修改返回类型为`City` ，可获取城市名、code等数据
-
-#### v2.0.0
-
--   项目重构优化，结构更清晰
--   使用RecyclerView
-
-# QQ群
-
-有兴趣可以加入QQ群一起交流：601783167
